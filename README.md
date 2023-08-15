@@ -1,2 +1,12 @@
-# Proyek-Tengah-Semester-2
-Kode ini merupakan hasil kerja kelompok 10 bersama teman saya Bisma. Ini merupakan hasil tugas yang diberikan untuk memenuhi nilai proyek tengah semester.
+# Aplikasi Buku Menu
+
+Proyek ini merupakan aplikasi buku menu pada restoran yang bertujuan untuk mempermudah pengguna dan pemilik restoran dalam hal menu yang tertera pada restoran tersebut.
+
+# Teknologi 
+
+Secara keseluruhan proyek ini menggunakan bahasa C.
+
+# Fitur
+- Input daftar menu
+- Pencarian pada menu
+- Sorting pada menu
